@@ -1,6 +1,5 @@
 def division(a, b):
     return a / b
 
-
-sum = division(20, 10)
-print(sum)
+print(division(5, 1))
+print(division(657, 4))
